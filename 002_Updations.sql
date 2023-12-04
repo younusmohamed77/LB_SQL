@@ -22,7 +22,7 @@ values
 	('E0004', 'Marketing', 'Officer', '01-Jan-2022', '6000'),
 	('E0005', 'Ops', 'DC','07-Jun-2017', '12000'),
 	('E0008', 'HR', 'DC', '12-Jan-2022', '10000'),
-	('E0009', 'Services','Manager', '10-Jan-2020', '10000');
+		
 
 -- Use SELECT command to view the contents of EMP_SAL table
 select *
